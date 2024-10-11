@@ -1,12 +1,14 @@
 - 👋 Hi, I’m @rootoor-dev
 - 👀 I’m interested in programming (softwares, games and web programming).
 - 🌱 My favourite languages are :
- * C/C++ 
+ * C/C++
+ * Java
+ * Go
  * V
  * Python
  * PHP / SQL
  * Nim, Zig
- * Rust / GO /
+ * Rust
  * R
  * Assembly
 - 💞️ I’m looking to collaborate on programming projects whatever the technologies.
